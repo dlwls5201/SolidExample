@@ -1,9 +1,11 @@
 package aftersolid
 
 /**
- *  개방/페쇄 원칙(Open/Closed Principle)
+ *  OCP (Open Closed Principle) 개방 폐쇄 원칙
  *
- *  기존의 코드를 변경하지 않으면서(closed), 기능을 추가할 수 있도록(open) 설계가 되어야 하는 원칙
+ *  자신의 확장에는 개방돼 있고, 주변의 변화에 대해서는 폐쇄돼 있어야 한다.
+ *
+ *  "소프트웨어 엔티티(패키지, 클래스, 모듈, 함수 등)는 확장에 대해서는 개방되어야 하지만,변경에 대해서는 폐쇄되어야 한다."
  */
 abstract class Animal {
 

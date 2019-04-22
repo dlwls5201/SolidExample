@@ -1,13 +1,13 @@
 package beforesolid
 
-data class User(val name: String, var age: Int)
+class User(var name: String, var age: Int)
 
 class UserSettings(val user: User) {
 
-    fun changeUserAge(age: Int) {
+    fun changeUserName(name: String) {
         if(verifyAgeUpTo19()) {
-            user.age = age
-            println("user age change : $age")
+            user.name = name
+            println("user name change : $name")
         }
     }
 
@@ -22,5 +22,5 @@ class UserSettings(val user: User) {
 }
 
 fun main() {
-    UserSettings(User("BlackJin", 9)).changeUserAge(30)
+    UserSettings(User("BlackJin", 9)).changeUserName("WhitJIn")
 }

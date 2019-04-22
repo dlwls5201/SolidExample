@@ -13,7 +13,7 @@ class MyAnimal(val animals: Array<Animal>) {
                 "mouse" -> {
                     println("squeak")
                 }
-                //TODO snake 추가해주게 되면 animalSound 함수를 수정해 주어야 합니다.
+                //snake 추가해주게 되면 animalSound 함수를 수정해 주어야 합니다.
                 "snake" -> {
                     println("hiss")
                 }

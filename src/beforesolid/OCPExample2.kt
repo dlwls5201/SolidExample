@@ -9,7 +9,7 @@ class Cashier(val customer: Customer) {
             "vip"   -> {
                 customer.price * 0.8
             }
-            //TODO vvip 추가해주게 되면 giveDiscount 함수를 수정해 주어야 합니다.
+            //vvip 추가해주게 되면 giveDiscount 함수를 수정해 주어야 합니다.
             "vvip"   -> {
                 customer.price * 0.6
             }

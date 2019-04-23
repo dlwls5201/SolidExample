@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ca79b3-8a55-4b52-aedb-c8cd83e7a556" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aftersolid/DIPExample2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aftersolid/ISPExample2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aftersolid/LSPExample2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aftersolid/OCPExample3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beforesolid/DIPExample2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beforesolid/ISPExample2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beforesolid/LSPExample1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beforesolid/LSPExample2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beforesolid/LSPSample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beforesolid/OCPExample3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beforesolid/OCPSample.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/META-INF/SolidExample.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/META-INF/SolidExample.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Cashier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Cashier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Lion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Lion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Mouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/MyAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/MyAnimal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/OCPExample2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/OCPExample2Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/SRPExampleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/SRPExampleKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Snake.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/UserSettings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/VVipCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/VVipCustomer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/VerifyUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/VipCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/VipCustomer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Cashier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/MyAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/MyAnimal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/OCPExample2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/OCPExample2Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/OCPExampleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/OCPExampleKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/SRPExampleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/SRPExampleKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/UserSettings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aftersolid/DIPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aftersolid/DIPExample1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aftersolid/ISPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aftersolid/ISPExample1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aftersolid/LSPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aftersolid/LSPExample1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aftersolid/OCPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aftersolid/OCPExample1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aftersolid/OCPExample2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aftersolid/OCPExample2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aftersolid/SRPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aftersolid/SRPExample.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beforesolid/DIPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/beforesolid/DIPExample1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beforesolid/ISPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/beforesolid/ISPExample1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beforesolid/LSPExample.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beforesolid/OCPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/beforesolid/OCPExample1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beforesolid/OCPExample2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/beforesolid/OCPExample2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beforesolid/SRPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/beforesolid/SRPExample.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aftersolid/DIPExample1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aftersolid/DIPExample1.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/aftersolid/DIPExample1.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="165">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -324,7 +276,7 @@
     <frame x="2560" y="0" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14098491" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14098491" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,12 +285,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32846716" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32846716" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32846716" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -546,8 +498,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/aftersolid/DIPExample1.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="165">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>

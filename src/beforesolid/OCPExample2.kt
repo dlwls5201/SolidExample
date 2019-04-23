@@ -1,27 +1,32 @@
 package beforesolid
 
-class Customer(val grade: String, val price: Double)
+import beforesolid.OCPExample2.*
 
-class Cashier(val customer: Customer) {
+class OCPExample2 {
 
-    fun giveDiscount(): Double {
-        return when(customer.grade) {
-            "vip"   -> {
-                customer.price * 0.8
+    class Customer(val grade: String, val price: Double)
+
+    class Cashier(val customer: Customer) {
+
+        fun giveDiscount(): Double {
+            return when(customer.grade) {
+                "vip"   -> {
+                    customer.price * 0.8
+                }
+                "vvip"   -> {
+                    customer.price * 0.6
+                }
+                else    -> {
+                    customer.price
+                }
             }
-            //vvip 추가해주게 되면 giveDiscount 함수를 수정해 주어야 합니다.
-            "vvip"   -> {
-                customer.price * 0.6
-            }
-            else    -> {
-                customer.price
-            }
+        }
+
+        fun showDiscount() {
+            println(giveDiscount())
         }
     }
 
-    fun showDiscount() {
-        println(giveDiscount())
-    }
 }
 
 fun main() {

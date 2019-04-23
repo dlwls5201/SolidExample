@@ -1,22 +1,27 @@
 package beforesolid
 
-class User(var name: String, var age: Int)
+import beforesolid.SRPExample.*
 
-class UserSettings(val user: User) {
+class SRPExample {
 
-    fun changeUserName(name: String) {
-        if(verifyAgeUpTo19()) {
-            user.name = name
-            println("user name change : $name")
+    data class User(var name: String, var age: Int)
+
+    class UserSettings(val user: User) {
+
+        fun changeUserName(name: String) {
+            if (verifyAgeUpTo19()) {
+                user.name = name
+                println("user name change : $name")
+            }
         }
-    }
 
-    fun verifyAgeUpTo19(): Boolean {
-        return if(user.age > 19) {
-            true
-        } else {
-            println("error : user age is under 19")
-            false
+        fun verifyAgeUpTo19(): Boolean {
+            return if (user.age > 19) {
+                true
+            } else {
+                println("error : user age is under 19")
+                false
+            }
         }
     }
 }
@@ -24,3 +29,5 @@ class UserSettings(val user: User) {
 fun main() {
     UserSettings(User("BlackJin", 9)).changeUserName("WhitJIn")
 }
+
+

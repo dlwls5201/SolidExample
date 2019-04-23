@@ -1,36 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e455287-8cb0-43df-9d47-938d20a11449" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aftersolid/DIPExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aftersolid/ISPExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aftersolid/LSPExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beforesolid/ISPExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beforesolid/LSPExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
+    <list default="true" id="f8ca79b3-8a55-4b52-aedb-c8cd83e7a556" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/aftersolid/DIPExample2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aftersolid/ISPExample2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aftersolid/LSPExample2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aftersolid/OCPExample3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beforesolid/DIPExample2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beforesolid/ISPExample2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beforesolid/LSPExample1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beforesolid/LSPExample2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beforesolid/LSPSample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beforesolid/OCPExample3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beforesolid/OCPSample.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SolidExample/META-INF/SolidExample.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/META-INF/SolidExample.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Cashier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Cashier.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Customer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Lion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Lion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Mouse.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/MyAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/MyAnimal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/MyDiscount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/OPCExample2Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/OPCExampleKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/OCPExample2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/OCPExample2Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/SRPExampleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/SRPExampleKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Snake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/UserSettings.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/VVipCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/VVipCustomer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/VerifyUser.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/VipCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/VipCustomer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Cashier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Customer.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/MyAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/MyAnimal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/MyDiscount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/OPCExample2Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/OPCExampleKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aftersolid/OCPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aftersolid/OCPExample.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/OCPExample2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/OCPExample2Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/OCPExampleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/OCPExampleKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/SRPExampleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/SRPExampleKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/UserSettings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aftersolid/DIPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aftersolid/DIPExample1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aftersolid/ISPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aftersolid/ISPExample1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aftersolid/LSPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aftersolid/LSPExample1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aftersolid/OCPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aftersolid/OCPExample1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aftersolid/OCPExample2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aftersolid/OCPExample2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aftersolid/SRPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aftersolid/SRPExample.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beforesolid/DIPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/beforesolid/DIPExample1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beforesolid/ISPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/beforesolid/ISPExample1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beforesolid/LSPExample.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beforesolid/OCPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/beforesolid/OCPExample1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beforesolid/OCPExample2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/beforesolid/OCPExample2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/beforesolid/SRPExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/beforesolid/SRPExample.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -46,64 +65,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/beforesolid/ISPExample.kt">
+        <entry file="file://$PROJECT_DIR$/src/beforesolid/DIPExample1.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aftersolid/ISPExample.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aftersolid/DIPExample.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="28" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/readme.md">
+        <entry file="file://$PROJECT_DIR$/src/aftersolid/DIPExample1.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aftersolid/OCPExample.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aftersolid/LSPExample.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/beforesolid/LSPExample.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+            <state relative-caret-position="600">
+              <caret line="40" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -113,9 +87,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>OCPExample3</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -133,28 +114,48 @@
         <option value="$PROJECT_DIR$/src/aftersolid/OPCExample.kt" />
         <option value="$PROJECT_DIR$/src/aftersolid/OPCExample2.kt" />
         <option value="$PROJECT_DIR$/src/beforesolid/OPCExample2.kt" />
+        <option value="$PROJECT_DIR$/src/aftersolid/OCPExample.kt" />
+        <option value="$PROJECT_DIR$/src/aftersolid/ISPExample.kt" />
+        <option value="$PROJECT_DIR$/src/readme.md" />
+        <option value="$PROJECT_DIR$/src/beforesolid/OCPExample2.kt" />
+        <option value="$PROJECT_DIR$/src/beforesolid/OCPExample3.kt" />
+        <option value="$PROJECT_DIR$/src/aftersolid/OCPExample3.kt" />
+        <option value="$PROJECT_DIR$/src/aftersolid/OCPExample2.kt" />
+        <option value="$PROJECT_DIR$/src/aftersolid/OCPExample1.kt" />
         <option value="$PROJECT_DIR$/src/beforesolid/OCPExample.kt" />
         <option value="$PROJECT_DIR$/src/beforesolid/LSPExample.kt" />
+        <option value="$PROJECT_DIR$/src/beforesolid/OCPExampleSample.kt" />
+        <option value="$PROJECT_DIR$/src/beforesolid/LSPSample.java" />
         <option value="$PROJECT_DIR$/src/aftersolid/LSPExample.kt" />
-        <option value="$PROJECT_DIR$/src/aftersolid/OCPExample2.kt" />
-        <option value="$PROJECT_DIR$/src/aftersolid/OCPExample.kt" />
-        <option value="$PROJECT_DIR$/src/beforesolid/OCPExample2.kt" />
-        <option value="$PROJECT_DIR$/src/aftersolid/SRPExample.kt" />
-        <option value="$PROJECT_DIR$/src/beforesolid/SRPExample.kt" />
         <option value="$PROJECT_DIR$/src/beforesolid/ISPExample.kt" />
-        <option value="$PROJECT_DIR$/src/aftersolid/ISPExample.kt" />
+        <option value="$PROJECT_DIR$/src/beforesolid/ISPExample1.kt" />
+        <option value="$PROJECT_DIR$/src/aftersolid/ISPExample1.kt" />
+        <option value="$PROJECT_DIR$/src/beforesolid/ISPExample2.kt" />
+        <option value="$PROJECT_DIR$/src/beforesolid/DIPExample.kt" />
         <option value="$PROJECT_DIR$/src/aftersolid/DIPExample.kt" />
-        <option value="$PROJECT_DIR$/src/readme.md" />
+        <option value="$PROJECT_DIR$/src/beforesolid/DIPExample1.kt" />
+        <option value="$PROJECT_DIR$/src/beforesolid/SRPExample.kt" />
+        <option value="$PROJECT_DIR$/src/aftersolid/SRPExample.kt" />
+        <option value="$PROJECT_DIR$/src/beforesolid/OCPSample.kt" />
+        <option value="$PROJECT_DIR$/src/beforesolid/OCPExample1.kt" />
+        <option value="$PROJECT_DIR$/src/aftersolid/LSPExample1.kt" />
+        <option value="$PROJECT_DIR$/src/beforesolid/LSPExample1.kt" />
+        <option value="$PROJECT_DIR$/src/beforesolid/LSPExample2.kt" />
+        <option value="$PROJECT_DIR$/src/beforesolid/LSPSample.kt" />
+        <option value="$PROJECT_DIR$/src/aftersolid/ISPExample2.kt" />
+        <option value="$PROJECT_DIR$/src/aftersolid/LSPExample2.kt" />
+        <option value="$PROJECT_DIR$/src/beforesolid/DIPExample2.kt" />
+        <option value="$PROJECT_DIR$/src/aftersolid/DIPExample2.kt" />
+        <option value="$PROJECT_DIR$/src/aftersolid/DIPExample1.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="180" />
-    <option name="y" value="132" />
-    <option name="width" value="1080" />
-    <option name="height" value="659" />
+    <option name="x" value="2560" />
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -163,12 +164,18 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="SolidExample" type="b2602c69:ProjectViewProjectNode" />
               <item name="SolidExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolidExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolidExample" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolidExample" type="b2602c69:ProjectViewProjectNode" />
@@ -191,26 +198,25 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/beforesolid" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/aftersolid" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/aftersolid" />
-      <recent name="$PROJECT_DIR$/src/beforesolid" />
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/beforesolid/ocp" />
       <recent name="$PROJECT_DIR$/src/beforesolid" />
       <recent name="$PROJECT_DIR$/src/applysolid" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/aftersolid" />
+      <recent name="$PROJECT_DIR$/src/beforesolid" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -225,67 +231,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.aftersolid.DIPExampleKt">
-    <configuration name="aftersolid.DIPExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.aftersolid.OCPExample3Kt">
+    <configuration name="aftersolid.DIPExample1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="SolidExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="aftersolid.DIPExampleKt" />
+      <option name="MAIN_CLASS_NAME" value="aftersolid.DIPExample1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aftersolid.LSPExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="aftersolid.LSPExample1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="SolidExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="aftersolid.LSPExampleKt" />
+      <option name="MAIN_CLASS_NAME" value="aftersolid.LSPExample1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aftersolid.OCPExample2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="aftersolid.OCPExample3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="SolidExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="aftersolid.OCPExample2Kt" />
+      <option name="MAIN_CLASS_NAME" value="aftersolid.OCPExample3Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="beforesolid.LSPExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="beforesolid.LSPExample1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="SolidExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="beforesolid.LSPExampleKt" />
+      <option name="MAIN_CLASS_NAME" value="beforesolid.LSPExample1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="beforesolid.ocp.OCPExample2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="beforesolid.OCPExample3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="SolidExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="beforesolid.ocp.OCPExample2Kt" />
+      <option name="MAIN_CLASS_NAME" value="beforesolid.OCPExample3Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -293,11 +299,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.aftersolid.DIPExampleKt" />
-        <item itemvalue="Kotlin.aftersolid.LSPExampleKt" />
-        <item itemvalue="Kotlin.beforesolid.LSPExampleKt" />
-        <item itemvalue="Kotlin.aftersolid.OCPExample2Kt" />
-        <item itemvalue="Kotlin.beforesolid.ocp.OCPExample2Kt" />
+        <item itemvalue="Kotlin.aftersolid.OCPExample3Kt" />
+        <item itemvalue="Kotlin.beforesolid.OCPExample3Kt" />
+        <item itemvalue="Kotlin.aftersolid.DIPExample1Kt" />
+        <item itemvalue="Kotlin.aftersolid.LSPExample1Kt" />
+        <item itemvalue="Kotlin.beforesolid.LSPExample1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +312,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6e455287-8cb0-43df-9d47-938d20a11449" name="Default Changelist" comment="" />
+      <changelist id="f8ca79b3-8a55-4b52-aedb-c8cd83e7a556" name="Default Changelist" comment="" />
       <created>1555900409914</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -315,10 +321,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="2560" y="0" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2160229" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14098491" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -327,7 +333,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32846716" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -345,6 +351,9 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Array.kt">
@@ -368,87 +377,177 @@
     <entry file="file://$PROJECT_DIR$/src/beforesolid/OPCExample2.kt" />
     <entry file="file://$PROJECT_DIR$/src/aftersolid/OPCExample2.kt" />
     <entry file="file://$PROJECT_DIR$/src/aftersolid/OPCExample.kt" />
-    <entry file="file://$PROJECT_DIR$/src/beforesolid/OCPExample.kt">
+    <entry file="file://$PROJECT_DIR$/src/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="60">
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beforesolid/LSPSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beforesolid/ISPExample1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beforesolid/SRPExample.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beforesolid/OCPExample2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beforesolid/OCPSample.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beforesolid/OCPExample1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beforesolid/OCPExample3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beforesolid/LSPSample.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beforesolid/LSPExample2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aftersolid/LSPExample1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="e#20#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aftersolid/ISPExample1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beforesolid/LSPExample1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="e#21#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beforesolid/ISPExample2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aftersolid/ISPExample2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aftersolid/LSPExample2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/aftersolid/OCPExample2.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="8" selection-end-column="3" />
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beforesolid/OCPExample2.kt">
+    <entry file="file://$PROJECT_DIR$/src/aftersolid/OCPExample3.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aftersolid/OCPExample1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/aftersolid/SRPExample.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beforesolid/SRPExample.kt">
+    <entry file="file://$PROJECT_DIR$/src/beforesolid/DIPExample2.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beforesolid/LSPExample.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/beforesolid/ISPExample.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aftersolid/LSPExample.kt">
+    <entry file="file://$PROJECT_DIR$/src/aftersolid/DIPExample2.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <caret line="6" selection-start-line="6" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/aftersolid/ISPExample.kt">
+    <entry file="file://$PROJECT_DIR$/src/beforesolid/DIPExample1.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/aftersolid/OCPExample.kt">
+    <entry file="file://$PROJECT_DIR$/src/aftersolid/DIPExample1.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aftersolid/DIPExample.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
+        <state relative-caret-position="600">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>

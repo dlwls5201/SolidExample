@@ -241,67 +241,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.beforesolid.LSPExample1Kt">
-    <configuration name="aftersolid.DIPExample1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.beforesolid.lsp.LSPExample1Kt">
+    <configuration name="aftersolid.dip.DIPExample1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="SolidExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="aftersolid.DIPExample1Kt" />
+      <option name="MAIN_CLASS_NAME" value="aftersolid.dip.DIPExample1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aftersolid.LSPExample1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="aftersolid.lsp.LSPExample1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="SolidExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="aftersolid.LSPExample1Kt" />
+      <option name="MAIN_CLASS_NAME" value="aftersolid.lsp.LSPExample1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aftersolid.OCPExample3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="aftersolid.ocp.OCPExample3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="SolidExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="aftersolid.OCPExample3Kt" />
+      <option name="MAIN_CLASS_NAME" value="aftersolid.ocp.OCPExample3Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="beforesolid.LSPExample1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="beforesolid.lsp.LSPExample1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="SolidExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="beforesolid.LSPExample1Kt" />
+      <option name="MAIN_CLASS_NAME" value="beforesolid.lsp.LSPExample1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="beforesolid.OCPExample3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="beforesolid.ocp.OCPExample3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="SolidExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="beforesolid.OCPExample3Kt" />
+      <option name="MAIN_CLASS_NAME" value="beforesolid.ocp.OCPExample3Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -309,11 +309,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.beforesolid.LSPExample1Kt" />
-        <item itemvalue="Kotlin.aftersolid.OCPExample3Kt" />
-        <item itemvalue="Kotlin.beforesolid.OCPExample3Kt" />
-        <item itemvalue="Kotlin.aftersolid.DIPExample1Kt" />
-        <item itemvalue="Kotlin.aftersolid.LSPExample1Kt" />
+        <item itemvalue="Kotlin.beforesolid.lsp.LSPExample1Kt" />
+        <item itemvalue="Kotlin.aftersolid.ocp.OCPExample3Kt" />
+        <item itemvalue="Kotlin.beforesolid.ocp.OCPExample3Kt" />
+        <item itemvalue="Kotlin.aftersolid.dip.DIPExample1Kt" />
+        <item itemvalue="Kotlin.aftersolid.lsp.LSPExample1Kt" />
       </list>
     </recent_temporary>
   </component>

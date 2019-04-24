@@ -1,4 +1,4 @@
-package beforesolid
+package beforesolid.lsp
 
 /**
  * LSP 원칙이 꺠질 때

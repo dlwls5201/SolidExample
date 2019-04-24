@@ -1,6 +1,6 @@
-package beforesolid
+package beforesolid.ocp
 
-import beforesolid.OCPExample3.*
+import beforesolid.ocp.OCPExample3.*
 
 class OCPExample3 {
 

@@ -1,6 +1,6 @@
-package aftersolid
+package aftersolid.srp
 
-import aftersolid.SRPExample.*
+import aftersolid.srp.SRPExample.*
 
 /**
  *  SRP (Single Responsibility Principle) 단일 책임 원칙

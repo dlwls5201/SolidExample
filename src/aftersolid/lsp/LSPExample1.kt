@@ -1,7 +1,7 @@
-package aftersolid
+package aftersolid.lsp
 
 import java.lang.RuntimeException
-import aftersolid.LSPExample.*
+import aftersolid.lsp.LSPExample.*
 
 /**
  *  LSP (Liskov Substitution Principle) 리스코프 치환 원칙

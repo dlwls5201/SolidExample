@@ -1,6 +1,6 @@
-package beforesolid
+package beforesolid.srp
 
-import beforesolid.SRPExample.*
+import beforesolid.srp.SRPExample.*
 
 class SRPExample {
 

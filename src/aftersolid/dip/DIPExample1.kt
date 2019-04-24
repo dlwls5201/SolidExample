@@ -1,6 +1,6 @@
-package aftersolid
+package aftersolid.dip
 
-import aftersolid.DIPExample1.*
+import aftersolid.dip.DIPExample1.*
 
 /**
  * DIP (Dependency Inversion Principle) 의존 역전 원칙

@@ -1,4 +1,4 @@
-package beforesolid
+package beforesolid.isp
 
 class ISPExample1 {
 

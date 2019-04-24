@@ -1,6 +1,4 @@
-package beforesolid
-
-import beforesolid.DIPExample2.*
+package beforesolid.dip
 
 class DIPExample2 {
 

@@ -1,6 +1,6 @@
-package aftersolid
+package aftersolid.ocp
 
-import aftersolid.OCPExample1.*
+import aftersolid.ocp.OCPExample1.*
 
 /**
  *  OCP (Open Closed Principle) 개방 폐쇄 원칙

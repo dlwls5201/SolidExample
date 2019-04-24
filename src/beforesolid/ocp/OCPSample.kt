@@ -1,4 +1,4 @@
-package beforesolid
+package beforesolid.ocp
 
 /**
  *  OCP 원칙이 깨질 때의 주요 현상

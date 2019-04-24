@@ -1,4 +1,4 @@
-package aftersolid
+package beforesolid.isp
 
 class ISPExample2 {
 
@@ -8,11 +8,8 @@ class ISPExample2 {
 
         fun subtract()
 
-    }
-
-    interface CalculatorRecent {
-
         fun multiply()
+
     }
 
     class Calculator2015: Calculator {
@@ -25,9 +22,12 @@ class ISPExample2 {
             println("2015 substract()")
         }
 
+        override fun multiply() {
+            println("...")
+        }
     }
 
-    class Calculator2019: Calculator, CalculatorRecent {
+    class Calculator2019: Calculator {
 
         override fun add() {
             println("2019 add()")

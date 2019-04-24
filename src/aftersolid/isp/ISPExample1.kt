@@ -1,4 +1,4 @@
-package aftersolid
+package aftersolid.isp
 
 /**
  * ISP (Interface Segregation Principle) 인터페이스 분리 원칙

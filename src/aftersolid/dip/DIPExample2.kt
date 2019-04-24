@@ -1,6 +1,6 @@
-package aftersolid
+package aftersolid.dip
 
-import aftersolid.DIPExample2.*
+import aftersolid.dip.DIPExample2.*
 
 class DIPExample2 {
 

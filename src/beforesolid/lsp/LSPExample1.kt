@@ -1,7 +1,7 @@
-package beforesolid
+package beforesolid.lsp
 
 import java.lang.RuntimeException
-import beforesolid.LSPExample.*
+import beforesolid.lsp.LSPExample.*
 
 class LSPExample {
 

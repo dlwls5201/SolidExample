@@ -25,9 +25,7 @@ class LSPExample {
 
     class Square(val width: Int) : Shape() {
 
-        override fun getArea(): Int {
-            return width * width
-        }
+        override fun getArea() = width * width
     }
 
     class DoWork {

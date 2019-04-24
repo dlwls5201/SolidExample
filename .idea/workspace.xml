@@ -1,56 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8ca79b3-8a55-4b52-aedb-c8cd83e7a556" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/META-INF/SolidExample.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/META-INF/SolidExample.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Cashier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/DIPExampleKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/DoWork.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Kid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/LSPExampleKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Lion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/MacPro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/MacPro2015.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/MacPro2016.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/MacProTouch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Mouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/MyAnimal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/OCPExample1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/OCPExample1Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/OCPExample2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/OCPExample2Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Robot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Snake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/Toy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/VVipCustomer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/aftersolid/VipCustomer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Character.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/DIPExampleKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/DoWork.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Enemy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Kid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/LSPExampleKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/MacPro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/MacPro2015.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/MacPro2016.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Missile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/MyAnimal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/OCPExample1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/OCPExample1Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/OCPExampleKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Robot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/SRPExample$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/SRPExample$User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidExample/beforesolid/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aftersolid/LSPExample1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aftersolid/LSPExample1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aftersolid/LSPExample2.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beforesolid/LSPExample1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/beforesolid/LSPExample1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beforesolid/LSPExample2.kt" beforeDir="false" />
-    </list>
+    <list default="true" id="f8ca79b3-8a55-4b52-aedb-c8cd83e7a556" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/beforesolid/LSPExample1.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="e#21#86#0" expanded="true" />
               </folding>
@@ -111,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/aftersolid/LSPExample1.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="555">
+              <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
               <folding>
                 <element signature="e#20#84#0" expanded="true" />
               </folding>
@@ -261,7 +212,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/aftersolid" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -381,9 +332,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2560" y="0" width="2560" height="1440" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14177918" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14177918" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,12 +342,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32846716" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32846716" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32846716" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32846716" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32846716" />
@@ -584,22 +534,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/aftersolid/LSPExample1.kt">
+    <entry file="file://$PROJECT_DIR$/src/beforesolid/LSPExample1.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
-            <element signature="e#20#84#0" expanded="true" />
+            <element signature="e#21#86#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beforesolid/LSPExample1.kt">
+    <entry file="file://$PROJECT_DIR$/src/aftersolid/LSPExample1.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="555">
+          <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
           <folding>
-            <element signature="e#21#86#0" expanded="true" />
+            <element signature="e#20#84#0" expanded="true" />
           </folding>
         </state>
       </provider>

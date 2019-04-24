@@ -1,5 +1,7 @@
 # SOLID EXAMPLE
 
-before & After
+This is solid example code sample
 
-https://jungwoon.github.io/solid/2017/07/31/Solid-Principle/
+You can read detail information in may blog
+
+https://black-jin0427.tistory.com/192
